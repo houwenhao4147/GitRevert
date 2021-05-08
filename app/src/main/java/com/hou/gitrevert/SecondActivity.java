@@ -22,6 +22,7 @@ public class SecondActivity extends AppCompatActivity {
         Log.e(TAG, "git dev456");
         Log.e(TAG, "git dev567");
         Log.e(TAG, "git dev678");
+        Log.e(TAG, "git dev678");
 
     }
 }
