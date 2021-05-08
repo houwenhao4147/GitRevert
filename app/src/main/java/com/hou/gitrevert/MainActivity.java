@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.e(TAG,"git revert");
         Log.e(TAG, "git dev1");
-        Log.e(TAG, "git dev123");
 
     }
 }
