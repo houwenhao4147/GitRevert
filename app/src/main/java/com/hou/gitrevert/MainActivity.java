@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         Log.e(TAG,"git revert");
         Log.e(TAG, "git dev1");
         Log.e(TAG, "git dev123");
+        Log.e(TAG, "git dev234");
 
     }
 }
